@@ -1,6 +1,6 @@
 <?php
 
-$survey1Name = 'Product feedback survey';
+$survey1Name = 'NA. Product feedback survey';
 $survey1Json = '{
     "pages": [
      {
